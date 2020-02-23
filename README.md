@@ -1,17 +1,18 @@
                 ENGS110_ARMEN_KAZARYAN
-#OVERVIEW<br>                           
+#OVERVIEW<br>  
+- - - - - - -
 The program organized your graphic for next week, you are just add in the program your doings and it will automatically plan for you several variations of week graphic, you can add time for your relax which will be untouchable for the program it will not set some work in that interval.
 
 
 TARGET USERS
-
+- - - - - - - 
 Who- People who want to manage their time properly
 What- Smartphone application
 When- By the start of May
 How- Python application
 
 USER PROBLEMS SOLVED
-
+- - - - - - - - - -
 User need: Person need to make graphic to be more punctual 
 Resolution: After inputting your deals it will generate exact time when you can do it. 
 
@@ -24,7 +25,7 @@ Resolution: You will have opportunity to input your free time which will be unto
  
 
 User story
-
+- - - - - - 
 My name is Armen Kazaryan, I am student in AUA and I am working simultaneously.
 
 I have problems with my time management and I need to organize my time to be more productive.
